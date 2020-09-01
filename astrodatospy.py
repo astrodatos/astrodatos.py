@@ -12,5 +12,5 @@ def volumen_esfera(R):
   input: Radio R
   output: volumen
   """
-  volumen = (4/3)* pi * R**3
+  volumen = (4/3)* np.pi * R**3
   return volumen
